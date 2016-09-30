@@ -77,5 +77,5 @@ This example your application will be accessible on: http://localhost:8080
 
 ### Questions?
 
-Send an email to: keviocastro@gmail.com
+Create an issue: https://github.com/keviocastro/docker-laravel/issues/new
 
