@@ -5,7 +5,7 @@ Um servidor simples e rápido para projetos laravel.
 # Supported tags and respective `Dockerfile` links
 
   - [`lastest` (*Dockerfile*)](https://github.com/keviocastro/docker-laravel/blob/master/Dockerfile)
-  -	[`5.2` (*Dockerfile*)](https://github.com/keviocastro/docker-laravel/blob/master/Dockerfile)
+  -	[`5` (*Dockerfile*)](https://github.com/keviocastro/docker-laravel/blob/master/Dockerfile)
 
 # What is laravel?
 
