@@ -20,7 +20,7 @@ See file docker-composer.yml exmple:
 version: '2'
 services:
   web:
-    build: docker pull keviocastro/laravel
+    build: keviocastro/laravel
     depends_on:
       - db
     volumes:
