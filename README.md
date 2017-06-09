@@ -4,7 +4,7 @@ A simple image for development environment with laravel framework
 
   - PHP 7.1
 
-# Whats is laravel
+# Whats is laravel ?
 
 The PHP Framework For Web Artisans.
 https://laravel.com/
