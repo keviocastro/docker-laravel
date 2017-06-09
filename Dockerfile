@@ -1,4 +1,4 @@
-FROM php:7
+FROM php:7.1
 WORKDIR	/var/app
 
 RUN apt-get update && apt-get install -y netcat \
