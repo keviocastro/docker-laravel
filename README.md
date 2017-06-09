@@ -10,7 +10,7 @@ The PHP Framework For Web Artisans.
 https://laravel.com/
 
 Run:
-`console docker run --name my-app -v "$PWD":/var/app/`
+`docker run --name my-app -v "$PWD":/var/app/`
 
 Run with docker-composer:
 
